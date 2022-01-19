@@ -39,7 +39,8 @@ Understand -> solve -> implement -> test
 Completing tasks
 Solving bugs
 
-Understanding the task – why is understanding the task importance ?
+#### Understanding the task – why is understanding the task importance ?
+
 *	Having clear understanding
 *	Specification document -> clear understanding of the task -> less bugs, minimize changes after coding begins, better time management. 
 *	You understand it when you can explain it
@@ -59,7 +60,8 @@ edge cases – write document – scenario and handling columns
 uml chart alternative 
 
 
-Solving – what is the step to solving optimize
+#### Solving – what is the step to solving optimize
+
 What is optimal solution
 
 Why spend time on planning a solution ?
@@ -107,11 +109,109 @@ How to remember ?
 
 
 
-### Implementing the solution – good coding session
+#### Implementing the solution – good coding session
 
-### Testing – why , how and how much
+write code
 
-### Bugs
+before implementing
+
+* be aware of all the task's details
+* concentrate on the big picture
+* the main flow is where you should start coding(solving big issues first and filling the minor issues later)
+
+what is considered a good coding session ?
+* concentrate solely on solving a specific issue
+* clear image of what you're trying to accomplish
+
+technical details missing, which you are uncertain
+
+If you stop often to ask questions or assume things and tell yourseflt you'll check tehm later
+
+
+where to start writing code ?
+
+* the main flow, keep to do for details(wordings like messages, build specific ui )
+* complete details later 
+
+
+#### Testing – why , how and how much
+
+do first test, 
+
+flawless softwrae
+
+why test ?
+* what i did works perfectly
+how to test ?
+* QA - try to break things. change mind set.
+* abuse your feature
+* test mercilessly
+* list of test cases 
+how much to test ? 
+* dedicated QA teams are an anti-pattern. testers should fin nothing.Zero.Nada
+* As much as it takes for you to be sure there aren't any bugs
+when to test ?
+* TDD - write the automated test before you write the actual code
+* as soon as possible
+
+#### Bugs
+
+* know your toolbox - solving bugs - can save times. 
+    * debugger
+    * IDE
+
+* Document
+    * what you already tried - debug
+    * prove bugs cause
+    * where is the breaking the code
+    * for Knowledge tranfer
+    * confusion cause costs
+    * what you need to documents :
+    * what did you try, and what results did you get ?
+    * what clues did you find ?
+    * what do you plan on doing next?
+    * everithing else that might help
+
+* bug solving stages 
+     
+     * gather information - undestand the correct behavior
+     * understand related functionality
+     * find and understand the error message(logs, screen) if there is (read the error)
+     * see for yourlself (the bug) (reproduce the bug)
+     * find the exact point of failure (networking problem, amount of data problem) - narrow it down
+     * read the code and black box test
+ 
+* debugging prepartions
+     * understand the flow of the code (stacktrace) - which class call which class, also for method or server
+     * reprodce locally - start by seeing it break, then fix it
+     * refactor to improve readbility, refactor to new function (not overdue it)
+
+* Debug
+     * Articulate (what you exactly knows)  
+     * Doubt your assumptions (the problem can be in another place)
+       * what did i assume to be working correctly and hence not check properly ?
+       * could a problem there cause the symptoms i'm seeing ?
+     * Every assumptions you validate makes you stand on more solid ground 
+     * Every assumptions you invalidate changes your focus toward the real problem
+     * Consider solving withous solving (instead debugging the library and fix, just change the library)    
+     * Avoid changing code you don't undertand - sometimes, solving the problem will result in another problem
+     * only change code you undestand
+
+* Test
+     * what you fixed works correctly
+     * what did work correctly, still does (dependencies)  
+
+
+good softwre - produces high quality softtware on time
+* carpeter proverb - measure twice, cut once - spend more time on planning and less time on execution
+      * always look for unclear issues, and make them clear.
+      * always know where you are in the bigger picture.
+      * always make sure what you know is available to you
+* error can be costly
+
+- miss feature, after production is pretty expensive.
+- low quality is very expensive
+
 
 ### Learn
 Set goals – learning techniques – build a plan
