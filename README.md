@@ -148,7 +148,7 @@ how to test ?
 * test mercilessly
 * list of test cases 
 how much to test ? 
-* dedicated QA teams are an anti-pattern. testers should fin nothing.Zero.Nada
+* dedicated QA teams are an anti-pattern. testers should find nothing.Zero.Nada
 * As much as it takes for you to be sure there aren't any bugs
 when to test ?
 * TDD - write the automated test before you write the actual code
