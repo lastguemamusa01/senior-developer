@@ -299,10 +299,105 @@ Pet or Toy Project
 
 lesson 5 : planning your path
 
+1 - smart goals driven by your vision
+2 - use 3 types of times
+3 - theoretical learning
+4 - practical learning
 
+power of habits
+
+used to do something
+assign time -> assign specific time in you calendar
+
+plan approaches
+
+* objectives by timeframes - plan what you will do for each and every day of the week.
+  * example : solve code kata every morning
+  * drive the work listening pod cast.
+  * objectives by timeframes
+* All in - let youlself one goal and devote all the time you have to accomplish it 
+  * complete my pet project by next month. (one single big goal to achieve)
+* (Most Effective) Combination of the two - some habits do regularly and other than that, you have a big goal to which you devote all the rest of the time you have.  
+
+set vision -> smart goals -> choose plan approach
+
+Good learning session - give you value(time invest) and sticks with you(update your plan if you cannot stick it)
+
+where you wnat to be in a few years ?
+what are the most relevant topics ?
+build a plan and stick to it
+
+habits is key for success.
+
+If a person studies a sbuject for 15 minutes a day in a year he will be an expert. In 5 years he will be a national expert - albert einstain
 
 ### Take the next step
 Time management – code quality – the zone – stand out
+
+advices to be better developer
+
+#### lesson1 : time management 
+
+
+1 - estimate how long the task will take
+* you cannot estimate something that you don't understand it.
+* if you have several tasks diving into code in order to estimate how long each of them will take is usually overkill. but you can do is give a rough estimate.
+* if you are not familiar with the relevant part of the code, ask fellow developers that are familiar.
+  * do we have infraestcture for sending mail 
+2 - Make sure you have what you need as soon as possible -  task is dependent on an external resources like another task.
+  * for each task you get always start by making sure you have everithing you need in order to complete it
+  * if you are dependent on someone or something, that is a risk on the way to mitigate it is by getting whatever it is you need as soon as possible.
+  * don't wait until the last moment to start looking for someone to answer your questions.
+3 - If there are delays, reflect them to you manager
+  * blockers
+  * like assigning someone to help you or reassigning the teams tasks so that others who have some spare time will make up for the delay.
+  * telling at last moment that you not going to make it, there is not much the manage can do.
+
+ASAP 
+
+"A problem you reported long before the deadline is a problem. A problem reported shortly before the deadline is a crisis"
+
+steps :
+
+managing single taks -> managing several tasks -> managing people.
+
+you mitigate risks and eliminate waste of time, so does your team leader.
+
+first managing yourself and after that manage others.
+
+#### lesson2 : code quality
+
+Every craftsman should be proud of his craft.
+
+mastery - carpeter, jeweler, etc.
+low quality you can see it.
+
+software is not so. a piece of code can work for years even without bugs. 
+lacking of quality will come into play is the price of changing it and in the price of fixing others components that work with it.
+
+customer only see the code results, not the code itself.
+
+Manifesto for software craftsmanship : 
+* Not only working software, but also well-crafted software
+* Not only responding to change, but also steadily adding value
+* Not only individuals and interactions, but also a community of professionals
+* Not only customer collaboration, but also productive partnerships
+
+ Maintenance typically consumes about 40 to 80 percent(60 percent average) of software costs.
+ so high quality software is essential.
+ 
+ you produce value to the company that can be converted to monetary profit.
+ 
+ Profit is the deciding factor
+ 
+ 
+ 
+
+#### lesson3: saying no to your manager
+
+#### lesson4: the Zone
+
+#### lesson5: stand out
 
 ### Conclusion
 
