@@ -216,6 +216,91 @@ good softwre - produces high quality softtware on time
 ### Learn
 Set goals – learning techniques – build a plan
 
+plan to get mastery
+most cost effective way
+
+lesson 1 : set yourfself goals 
+set vision and goals
+
+vision - where do you want to be , 1 , 5 or 10 years future.
+
+goals - goals need to be smart
+
+SPECIFIC - what exactly you want to achieve -> what improve
+MEASURABLE - whats need to be done with what steps - 
+Achievable - realistic goals - time, money - have resources
+Relevant - releavant what you going to achieve
+Time-bound - time interval
+
+lesson 2 : know your resources
+
+Time - 3 types of time
+1 - free time in front of a computer - writing code
+2 - time at work - still use time.
+    - work in an organization
+    - completing tasks
+3 - free time not in front of computer
+    - drive to work, train or walk. (moving time)
+
+Time
+
+* using it wisely(effectly)
+* only what's relevant 
+   * dont read or watch or do exercise courses that not is relevant with your goals or vision - that is waste of time.
+* enjoyment and satisfaction are key
+   * learning can be boring or unpleasant at times, but if in the end you feel it was worth it, then the entire experience was positive.
+   * if you doensnt get any enjoyment or satisfaction, maybe it is time to try something else.
+
+lesson 3 : techniques - theoretical
+
+Reading
+* books - learning through books - great way to qcquere specific, in-depth knowledge and undestarnding of concepts.
+* blogs(like medium) - great way to find out the latest and greatest technolgoies, language, features, etc. keeping up to days
+* other peoples code - great way to learn techniques you haven't thought about, as well as fin new features in that you werent aware of
+
+Listening
+* podcasts - you can listen when you drive or moving some place. trends, methodologies and concepts only.
+
+watching
+* online courses - showing actual code and giving explanation, not very effective. passive mode. actually wrinting code. given task is better to do labs. active learning is far more effective then passive learning. change speed 1.5x -> save a lot of time and focus more.
+
+
+lesson 4 : techniques - practical
+
+solving the same problem with different approach will you gain better perspective to know the best way code.
+
+Code Kata - practice sessions - practice sessions that are designed to bring the practitioner to optimize his solving techniques by repeating the exericises over and over again, just as the original karate kata. 
+* explorer the possibilities - compare the solutions, exploring and comparing different approaches
+
+Games and challenges - you can see you code in action.
+* Engaging and enjoyable
+* code reviews - improve the code quality
+
+Hackatons - gathering developers and other professionals to solve specific problem or challenge on specific time. few days
+* learn by doing
+* enjoyable
+
+Contribute to open source - you take code written by others unfixable or add a feuature to it.
+* coder review 
+* reputation - passion and show spare time used to code 
+* satisfaction
+
+Code Reviews 
+* free lessons 
+* at work
+* Stack exchange code reviews, q and a sites -> you can do code reviews here
+
+Pet or Toy Project
+* new technology that you are learning first. few hours or several months, alone or team
+* free to experiment
+* be creative
+* belief in yourself
+* start with something small and simple
+
+lesson 5 : planning your path
+
+
+
 ### Take the next step
 Time management – code quality – the zone – stand out
 
