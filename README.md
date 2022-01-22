@@ -390,12 +390,39 @@ Manifesto for software craftsmanship :
  
  Profit is the deciding factor
  
+ When recommending new technology 
  
+ how long will it take to implement this technology in the project ?
+ how long will it take you and other team members to learn it ?
+ does this technology have known issues ? what are they ?
+ is it stable ?
+ What benefit will it bring to the project ?
  
-
+ * Always aspire to write a high quality code as you can
+ * The people who spend the money are the ones who should make the calls
+ * Reflect the relevant information -> people ho make the decisions to take best decisitions
+ 
 #### lesson3: saying no to your manager
 
+* sometimes the person who assigns you a task doesn't understand it is full implications.(sometimes  simple task looked, it doesn't and can be more complicated)
+* It's our duty to reflect that to our managers. managers take go or not to go decisitions.
+* What the leader says is what counts
+
 #### lesson4: the Zone
+
+* The zone is a state of mind which is marked by a sense of calmness. there is a heghtened sense of awareness and focus. Actions seem effortless, and there is an incresed belief that your dreams or goals can become achievable and real. you are enjoying. -> sport originarited -> also in programming
+* detach yourself of all distractions. focus. prevent interruptions - 
+  * work early or leave work late (there wiil be no one who interrupt you)
+  * use headphones
+  * close all messaging applciations, outlook, zoom , etc, phone. -> no messages, no calls
+  * no meetings
+  * get everything you need - have all you need closely
+
+* focus
+  *  have clear goals - dont start a session before you know exactly what you are trying to achieve. can be waisting of your time.
+  *  Devote yourself
+
+ 
 
 #### lesson5: stand out
 
