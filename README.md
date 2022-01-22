@@ -420,11 +420,112 @@ Manifesto for software craftsmanship :
 
 * focus
   *  have clear goals - dont start a session before you know exactly what you are trying to achieve. can be waisting of your time.
-  *  Devote yourself
-
- 
+  *  Devote yourself 
 
 #### lesson5: stand out
 
+* ask why - why, why , why, why -> find root cause  -> undestand the requirements
+* help you team achieve it is goals - spend time to help junior devs.  do procedures - steps on cofluence.
+  * take initiative. do more than what you have assigned.
+*  become a guru - knowledge of the system. - choosing a technology, a business process, a library you use or an area in the code and getting to know it really well, be the person people come to when they want to work with it.
+*  Lead - be proactive, be one aware of entire task. be the go to person to task. lead the task.
+   *  make sure what you do is accepted by your teammates and is no t considered rude or unpleasant
+*  Kaizen - continous improvement - with the time kaizen practice will be better than any one
+   * number of bugs per task
+   * time estimation accuracy
+   * number of comments in code review
+   * number of misunderstanding connection between sub tasks
+ 
+ Did you get better on those parameters on your last task, compared with the task before that ?
+ 
+ how do you improve ?
+ 
+ * scale - 
+   * number of bugs per task(or per x programming hours)
+   * perentage of deviation from time estimation
+   * number of comments in code reviews
+   * number of unplanned changes to code you already wrote
+ * Reflect - after every meaningful step you do. ask youlself, how did it go ?
+   * be it a big task
+   * critical bug you found or solve
+   * a version completed
+ * Awareness - constantly keeping in mind, trying to see if what you are doing can be done better
+   *  was that conversation with the systems analyst or with our team leader effective ?
+   *  was you decision to solve that bug the right call based on what you knew when you came to that decision ? is it still the right call now or should you reconsider ? 
+   *  not everytime, but at some points, see the process as it occurs and be aware of the small steps as well
+
+* time management - you cant estimate how long a task will take without understanding it. track your time. you should get what you need in order to complete your task as soon as possible. you should reflect any delay to your managers.
+* code quality - you should be porud of what you do, the people who paying you decide what you do. our role to reflect what we know to them in order for them to make the best decisions.
+* saying no to your manager - after you have relfected what you know to your manager,it is unprofessional to refuse a task.
+* The zone - on some specific times you set yourself, the more distractions you will remove, the more productive you will be.
+* Stand out - 
+  * ask why about business requirements, specification documents and technical decisions, get depper undestanding about the task. 
+  * stepping out of your personal tasks and helping your team achieve it is goals. 
+  * becoming a guru on specific topic in such a way that you will be the person that people come to for a question or for advice. 
+  * finding opportunities to take the lead when it is acceptable by your peers.
+  * constantly improving
+
+ 
 ### Conclusion
+
+
+
+who is a senior developer  ? 
+
+- proficient(high quality, know edge techonology, funds and solves bugs quickly and efficiently)
+- manages himself(prioritizes and handles tasks)
+- professional (brings value, strives for excellence)
+- team playaer( looks beyong his tasks, selfless)
+
+- interviews factors
+
+  * motivation
+  * a software developer - technical level.
+  * professional - reliable, responsible, provide high-quality solutions
+  * human - honest, kind, have modesty
+
+Vision - more patient , be better person everyday -> sefllessness(the ability to put your ego aside and do what you think is right)
+
+what kind of people will we be ?
+a good team player is someone who can put his ego aside and act professionally and humanely, even when it is tough and doing so for a long period of time, i believe makes you a better person.
+
+
+### Job Interview Tips
+
+"Personal experience"
+
+* technical skills for job interview
+  * create new simple projects over and over again
+  * google -> interview questions
+  * google -> technolgies latest features
+  * (basic) describe some technology -> main features, why i used x instead y. answer - why should i use this technology ? what are it is main features ?
+
+* non-technical skills
+  * Be the best version of you - Oren show - being the best, friendliest and nicest version of me. not to overdo it,.
+  * Think of a challenge you have encontredered, and how you overcame it by being resourceful
+  * Be talkative when you are stuck - how you will approach it
+
+* Asking questions
+  * junior dev - build is broken, why is that ? get error messages -> thre is a problem, what should i do ?
+  * experience dev -trying to undestand -> the build is broken, i have the latest version , get a referecne expection in employee class. investigation done before.  -> there is a problem, here is what is causing it, what should i do ?  (lack of ability)
+  * better experience dev - there is a problem. here is what is causing it, and here is a way to solve it , what should i do ?
+  * senior dev -- there is a problem. here is what is causing it, and here are serveral ways to solve it, what should i do ?
+  * best dev - there is a problem. here is what is causing it, and here are several ways to solve it, i recommend this way because of such and such criteria. what should i do ? 
+
+- benefits of asking higher levels questions
+- 
+* you respect your teammate's time
+* you make others respect you more
+* you study as you go
+* you are becoming independent
+
+- Overcoming being stuck
+
+* solve the problem manually - see pattern emerging -> pseudocode , test to see if you have expected answer.
+* take a break - make some coffee, walk around building.
+* articulate the problem precisely - what is exactly not working -> be very specific about the problem. check you assumptions. rubber duck debugging skills apply
+* isolate the technical difficulty - online console - solve seprately in isolation
+* ask a question on StackOverflow - will you describe what you triying to accomplish and what you have already tried.
+* Thinking outside of the box  
+  *  export a web page to pdf -> fix the code ? - debbug but cannot fix or stuck -> think outside of the box. switching library, or use browser ability to export pdf.
 
